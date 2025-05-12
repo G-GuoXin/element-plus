@@ -1,5 +1,5 @@
 <template>
-  <el-badge class="item" :value="1" :offset="[10, 5]">
+  <el-badge class="item" :value="1" :offset="[20, 5]">
     <el-button> offset</el-button>
   </el-badge>
 </template>
